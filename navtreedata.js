@@ -23,8 +23,8 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "Main Page", "index.html", [
-    [ "Uniform Data Operator", "d4/d04/md__d_1__work__git_hub_uniform-data-operator__r_e_a_d_m_e.html", null ],
+  [ "My Project", "index.html", [
+    [ "F.A.Q.", "d3/d2d/faq.html", null ],
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ],
       [ "Package Functions", "namespacemembers.html", [
